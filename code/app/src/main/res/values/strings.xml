@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">식재료를 부탁해</string>
+    <string name="action_settings">Settings</string>
+    <string name="options">음식 종류</string>
+
+
+    <string-array name='option_array'>
+        <item>우유</item>
+        <item>치즈</item>
+        <item>요거트</item>
+        <item>달걀</item>
+        <item>식빵</item>
+        <item>두부</item>
+        <item>냉동만두</item>
+        <item>김치</item>
+        <item>케이크/크림빵</item>
+        <item>고추장</item>
+        <item>생면</item>
+        <item>기타</item>
+    </string-array>
+</resources>
